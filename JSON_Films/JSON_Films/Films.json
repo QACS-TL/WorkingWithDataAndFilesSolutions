@@ -1,0 +1,23 @@
+﻿[
+  {
+    "film_id": "112233",
+    "title": "King of Thieves",
+    "synopsis": "King Charles gets mixed up with a bunch of wrong 'uns",
+    "director": "H. Windsor",
+    "release_date": "2019-05-27"
+  },
+  {
+    "film_id": "445566",
+    "title": "The Predator",
+    "synopsis": "Felix the cat gets into some heavy mousing",
+    "director": "Fifi La Chatte",
+    "release_date": "2019-10-19"
+  },
+  {
+    "film_id": "999999",
+    "title": "The House with a Clock in its Walls",
+    "synopsis": "A builder accidently leaves a clock inside the walls of his latest project",
+    "director": "Bob Builder",
+    "release_date": "2018-07-03"
+  }
+]

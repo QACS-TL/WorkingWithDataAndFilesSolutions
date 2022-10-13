@@ -1,0 +1,30 @@
+[
+  {
+    "Film_ID": 112233,
+    "Title": "King of Thieves",
+    "Synopsis": "King Charles gets mixed up with a bunch of wrong 'uns",
+    "Director": "H. Windsor",
+    "Release_Date": "2019-05-27T00:00:00"
+  },
+  {
+    "Film_ID": 445566,
+    "Title": "The Predator",
+    "Synopsis": "Felix the cat gets into some heavy mousing",
+    "Director": "Fifi La Chatte",
+    "Release_Date": "2019-10-19T00:00:00"
+  },
+  {
+    "Film_ID": 999999,
+    "Title": "The House with a Clock in its Walls",
+    "Synopsis": "A builder accidently leaves a clock inside the walls of his latest project",
+    "Director": "Bob Builder",
+    "Release_Date": "2018-07-03T00:00:00"
+  },
+  {
+    "Film_ID": 88888888,
+    "Title": "Hairy Potter and the Potion of Doom",
+    "Synopsis": "Hairy, Germione and Don get up to mischief in professor Snipe's potions class",
+    "Director": "Pete Behague",
+    "Release_Date": "2022-09-10T00:00:00"
+  }
+]
