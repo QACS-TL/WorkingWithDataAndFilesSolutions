@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2p1j6wE0iC9nwuPj9zp3paLNLdDLOF8IiSoqFfrqf2GmJAN8Dg2kjj8vGzq6nLdWgPJwgeSSD67635wXTQ/JOw==",
+  "success": true,
+  "projectFilePath": "E:\\QAL\\Total Learning C#\\Live\\Day1\\Labs\\WorkingWithDataAndFiles\\Streams\\Streams\\Streams.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\p_beh\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
